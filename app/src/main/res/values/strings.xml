@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Sample Map App</string>
+    <string name="action_item">Pin List</string>
+    <string name="navigation_drawer_title">Hello there, you can place your user details here or just write something nice ;)</string>
+    <string name="no_internet_available">Sorry, no internet available, go get some!</string>
+    <string name="generic_error">Ops, something strange is happening, it may be our fault, can we still be friends?</string>
+    <string name="sub_menu_title">Le submenu title</string>
+    <string name="item_title">An awesome item title</string>
+    <string name="another_sub_menu_title">Yet another submenu title</string>
+    <string name="another_item_title">An incredible item title</string>
+    <string name="no_permission_granted">Ok, but that permission would make your life so much easier! Maybe next time?</string>
+
+    <string name="dialog_title">Patience Daniel san...</string>
+    <string name="dialog_text">We are trying to catch flies with chopsticks...</string>
+    <string name="drawer_open">Open drawer</string>
+    <string name="drawer_close">Close drawer</string>
+</resources>

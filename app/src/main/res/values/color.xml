@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_color">#2d8185</color>
+    <color name="primary_dark_color">#095055</color>
+    <color name="accent_color">#FFC59F00</color>
+    <color name="drawer_header_start">#0b6063</color>
+    <color name="drawer_header_end">#5fa4a8</color>
+</resources>

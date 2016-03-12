@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:id="@+id/grp1"
+        android:checkableBehavior="none">
+        <item
+            android:id="@+id/menu"
+            android:checked="true"
+            android:icon="@drawable/ic_action_pin"
+            android:title="@string/sub_menu_title">
+            <menu>
+                <item
+                    android:id="@+id/submenu"
+                    android:checked="true"
+                    android:icon="@drawable/ic_action_pin"
+                    android:title="@string/item_title" />
+            </menu>
+        </item>
+        <item
+            android:id="@+id/another_menu"
+            android:checked="true"
+            android:icon="@drawable/ic_action_pin"
+            android:title="@string/another_sub_menu_title">
+            <menu>
+                <item
+                    android:id="@+id/another_submenu"
+                    android:checked="true"
+                    android:icon="@drawable/ic_action_pin"
+                    android:title="@string/another_item_title" />
+            </menu>
+        </item>
+    </group>
+
+</menu>
