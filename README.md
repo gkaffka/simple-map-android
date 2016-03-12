@@ -1,5 +1,5 @@
 # simple-map-android
-A simple map app to help you getting started with android development using the Google maps SDK for android
+A simple map app to help you getting started with android development using the Google maps API for android
 ###Getting started
 Clone the repository and import the project in Android Studio, you can try the app installing the `simple_map_app.apk` available in the project root.
 
